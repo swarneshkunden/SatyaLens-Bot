@@ -21,11 +21,14 @@ It is designed to provide intelligent, automated responses and can be extended f
    cd SatyaLens-Bot
 
 2. python -m venv venv
+    
     source venv/bin/activate   # On Linux/Mac
     venv\Scripts\activate      # On Windows
 
 3. Install the required dependencies:
+    
     pip install -r requirements.txt
 
 4. Run the bot with :
+    
     python main.py
