@@ -1,0 +1,13 @@
+flask
+openai
+requests
+python-dotenv
+twilio
+python-telegram-bot
+discord.py
+validators
+beautifulsoup4
+nltk
+pandas
+numpy
+gunicorn
